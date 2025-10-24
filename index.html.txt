@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的GitHub网站</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1> 我的第一个GitHub Pages网站！</h1>
+    <p>这是一个通过Git和GitHub Pages部署的静态网站。</p>
+    <p><strong>学生：</strong>你的姓名 - 研一</p>
+    <p><strong>课程：</strong>云计算</p>
+    
+    <h2>技术实现：</h2>
+    <ul>
+        <li>使用Git进行版本控制</li>
+        <li>通过GitHub Pages免费托管</li>
+        <li>基于HTML的静态网站</li>
+        <li>全球CDN加速访问</li>
+    </ul>
+</body>
+</html>
